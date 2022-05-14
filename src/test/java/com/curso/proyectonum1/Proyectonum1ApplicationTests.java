@@ -1,0 +1,13 @@
+package com.curso.proyectonum1;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class Proyectonum1ApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
